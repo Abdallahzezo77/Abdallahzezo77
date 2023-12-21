@@ -16,7 +16,7 @@
 - 💬 Ask me about my experience with JavaScript, HTML, and CSS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
-<img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
+
 
  ### 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:Abdallah.Elsayed.Ramadan@gmail.com)](mailto:Abdallah.Elsayed.Ramadan@gmail.com)
